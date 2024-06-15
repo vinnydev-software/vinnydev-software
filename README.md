@@ -1,47 +1,45 @@
-# Hello, I'm Vinicius Batista 👋
+# My OSSU Progress
 
-### Computer Science Student at OSSU (Open Source Society University)
+Welcome to my OSSU (Open Source Society University) journey. Here, I'll track my progress through the computer science curriculum.
 
-### About Me
+## Core Curriculum
 
-I'm passionate about technology and software development. Currently, I'm studying Computer Science through OSSU, an open source community that provides a high-quality education based on the curricula of top universities worldwide.
+- [x] **[1.1] Introduction to Computer Science** - [CS50 by Harvard University](https://www.edx.org/course/cs50s-introduction-to-computer-science)
+- [x] **[1.2] Data Structures and Algorithms** - [Algorithms, Part I by Princeton University](https://www.coursera.org/learn/algorithms-part1)
+- [ ] **[1.3] Discrete Mathematics** - [Mathematics for Computer Science by MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/)
+- [ ] **[1.4] Computer Architecture** - [Computer Systems Engineering by MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2017/)
+- [ ] **[1.5] Operating Systems** - [Operating Systems by UCB](https://cs162.eecs.berkeley.edu/)
+- [ ] **[1.6] Software Engineering** - [Software Engineering: Introduction by UBC](https://www.edx.org/course/software-engineering-introduction)
 
-### 🚀 Skills
+## Specialization Courses
 
-- **Programming Languages**: Python, JavaScript, Java, C++
-- **Web Development**: HTML, CSS, React, Node.js
-- **Databases**: MySQL, MongoDB
-- **Tools and Technologies**: Git, Docker, Linux
-- **Others**: Algorithms and Data Structures, Computer Networks, Operating Systems
+- [x] **[2.1] Web Development** - [Full-Stack Web Development with React by HKUST](https://www.coursera.org/specializations/full-stack-react)
+- [ ] **[2.2] Database Management Systems** - [Databases by Stanford University](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
+- [ ] **[2.3] Machine Learning** - [Machine Learning by Stanford University](https://www.coursera.org/learn/machine-learning)
+- [ ] **[2.4] Computer Networks** - [Computer Networking by Georgia Tech](https://www.udacity.com/course/computer-networking--ud436)
 
+## 📫 How to Reach Me
 
+- **GitHub**: [github.com/vinnydev-software](https://github.com/vinnydev-softwar)
+- **Email**: vinnydev-software@gmail.com
 
-### 🌱 Currently Learning
-
-- Full-Stack Development with MERN Stack (MongoDB, Express.js, React, Node.js)
-- Contributing to open source projects
-- Game development with Unity
-
-### 📫 How to Reach Me
-
-GitHub: [github.com/vinnydev-software](https://github.com/vinnydev-software)
-Email: vinnydev-software@gmail.com
-
-
-### 🎯 Goals
+## 🎯 Goals
 
 - Become a proficient full-stack developer.
 - Contribute to open source projects and give back to the community.
 - Continue learning and developing in the field of computer science.
 
-
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinnydev-software&show_icons=true&theme=radical)
 
-
-### ✨ Fun Facts
+## ✨ Fun Facts
 
 - I enjoy solving challenging problems and learning new technologies.
 - I'm an open source enthusiast and love collaborating with other developers.
 
+---
+
+Thank you for visiting my profile! Feel free to explore my repositories and get in touch with me.
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=vinnydev-software.yourprofile)
