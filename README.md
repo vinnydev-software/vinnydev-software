@@ -37,9 +37,3 @@ Welcome to my OSSU (Open Source Society University) journey. Here, I'll track my
 
 - I enjoy solving challenging problems and learning new technologies.
 - I'm an open source enthusiast and love collaborating with other developers.
-
----
-
-Thank you for visiting my profile! Feel free to explore my repositories and get in touch with me.
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=vinnydev-software.yourprofile)
