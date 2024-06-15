@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Vinicius Batista 👋
 
 ### Computer Science Student at OSSU (Open Source Society University)
 
