@@ -19,7 +19,6 @@
 
 ## Interests
 - Areas of interest within software development
-- Future projects you would like to work on
 
 ## Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinnydev-software&show_icons=true&count_private=true&theme=radical)
